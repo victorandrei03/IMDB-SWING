@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JsonDataLoadChecker" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-08T19:41:42" hostname="DESKTOP-RLM85NC" time="0.245">
+  <properties/>
+  <testcase name="loadTest()" classname="JsonDataLoadChecker" time="0.245"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

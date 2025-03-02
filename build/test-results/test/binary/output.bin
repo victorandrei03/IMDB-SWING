@@ -1,0 +1,7 @@
+FStrategy ExperienceStrategy is implemented correctly			4.9999995/5.0
+ABuilder InformationBuilder is implemented correctly			10.0/10.0
+3Singleton IMDB is implemented correctly			5.0/5.0
+(Observer User is implemented correctly
+*Subject Request is implemented correctly
+)Subject Rating is implemented correctly
+-Total score for observer pattern: 20.0/20.0

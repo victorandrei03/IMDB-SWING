@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DesignPatternsChecker" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-08T19:41:42" hostname="DESKTOP-RLM85NC" time="0.08">
+  <properties/>
+  <testcase name="strategyTest()" classname="DesignPatternsChecker" time="0.064"/>
+  <testcase name="builderTest()" classname="DesignPatternsChecker" time="0.003"/>
+  <testcase name="singletonTest()" classname="DesignPatternsChecker" time="0.001"/>
+  <testcase name="observerTest()" classname="DesignPatternsChecker" time="0.008"/>
+  <system-out><![CDATA[Strategy ExperienceStrategy is implemented correctly			4.9999995/5.0
+Builder InformationBuilder is implemented correctly			10.0/10.0
+Singleton IMDB is implemented correctly			5.0/5.0
+Observer User is implemented correctly
+Subject Request is implemented correctly
+Subject Rating is implemented correctly
+Total score for observer pattern: 20.0/20.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
