@@ -23,6 +23,10 @@ Upon launching the application, the user chooses how they want to use it by ente
   - The user's experience points are displayed if their type is not "Admin".
 - A "Register" button on the login page allows new users to register by entering their details (name, username, email, password, age, etc.).
 
+![image](https://github.com/user-attachments/assets/6279f411-0019-4f79-b978-82911b659afa)
+
+![image](https://github.com/user-attachments/assets/cd538363-5fc8-473b-9080-cd3cb1c848c6)
+
 ---
 
 ### 2. View Notifications
@@ -39,6 +43,8 @@ Upon launching the application, the user chooses how they want to use it by ente
 #### Swing Mode:
 - A `JButton` and `JPopupMenu` are used to display all received notifications when the button is clicked.
 
+- ![image](https://github.com/user-attachments/assets/10e1dad7-db2a-4688-9d14-dc97a6b1aceb)
+
 ---
 
 ### 3. Search for a Specific Movie/Series/Actor
@@ -48,6 +54,12 @@ Upon launching the application, the user chooses how they want to use it by ente
 
 #### Swing Mode:
 - The search bar and button (explained in step 1) are used. Clicking on an image takes the user to the respective page.
+
+![image](https://github.com/user-attachments/assets/68290b54-7a12-40a3-ab22-ceaa5c03b5a9)
+
+![image](https://github.com/user-attachments/assets/3a29eece-e8b9-45e2-9bd9-7a824bb3c1d4)
+
+![image](https://github.com/user-attachments/assets/b7106da5-7bdb-46b9-8164-284ec89779d9)
 
 ---
 
@@ -129,5 +141,7 @@ Upon launching the application, the user chooses how they want to use it by ente
 
 ---
 
-## Difficulty Level: Medium
-## Time Allocated: 10 Days
+![image](https://github.com/user-attachments/assets/7990db7b-99f4-4b50-a5a8-cd312a5bd5b5)
+
+![image](https://github.com/user-attachments/assets/95293d83-80c3-41f2-83ca-0cd77ff9ec30)
+
